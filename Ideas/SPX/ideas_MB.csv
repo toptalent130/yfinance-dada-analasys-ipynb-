@@ -1,0 +1,3 @@
+owner,active,quantity,Strike_Price,Action,price
+MB,True,10,4000,SELL,300
+MB,True,20,4500,BUY,
